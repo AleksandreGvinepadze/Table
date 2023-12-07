@@ -84,10 +84,10 @@ th, td{
     border-radius: 8px;
     background: #624DE3;
 }
-.cancelled{
+.canceled{
     color: #A30D11;
     font-family: Montserrat;
-    font-size: 12px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -102,7 +102,7 @@ th, td{
 .delivered{
     color: #1F9254;
     font-family: Montserrat;
-    font-size: 12px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -123,4 +123,6 @@ th, td{
     border-radius: 22px;
     background: #FEF2E5;
     color: #CD6200;
+    font-family: Montserrat;
+    font-size: 15px;
 }
